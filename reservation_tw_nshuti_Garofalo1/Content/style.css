@@ -1,0 +1,31 @@
+body
+{
+	background-color : grey ;
+}
+form 
+{
+	width : 400px;
+}
+.cadre
+{
+	border: 1px solid black;
+}
+.cadre_detail
+{
+	border-right-width: 1px;
+	border-right-style:	solid ;
+	border-right-color:	black;
+	border-left-width:   1px;
+	border-left-style:	solid ;
+	border-left-color:	black;
+}
+.top_detail
+{
+	border-top :1px solid black;
+	border-bottom :1px solid black;
+}
+
+/*div
+{
+	border: 1px solid black;
+}*/
